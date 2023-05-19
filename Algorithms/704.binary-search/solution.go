@@ -1,4 +1,4 @@
-package binarySearch
+package binarysearch
 
 func search(nums []int, target int) int {
 	for i, v := range nums {

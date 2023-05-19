@@ -1,4 +1,4 @@
-package kidsWithTheGreatestNumberOfCandies
+package kidswiththegreatestnumberofcandies
 
 func kidsWithCandies(candies []int, extraCandies int) []bool {
 

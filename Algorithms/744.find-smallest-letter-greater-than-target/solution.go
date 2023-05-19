@@ -1,4 +1,4 @@
-package findSmallestLetterGreaterThanTarget
+package findsmallestlettergreaterthantarget
 
 func nextGreatestLetter(letters []byte, target byte) byte {
 	if target == 122 {

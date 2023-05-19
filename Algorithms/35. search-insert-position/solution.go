@@ -1,4 +1,4 @@
-package searchInsertPosition
+package searchinsertposition
 
 func searchInsert(nums []int, target int) int {
 	for i, v := range nums {
